@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="icon" type="image/png" href="./src/img/logoclimaflow-novo.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./src/css/reset.css">
+        <link rel="stylesheet" href="./src/css/style.css">
+        <title>ClimaFlow: Assistente Meteorológico</title>
+    </head>
+    <body>
+        <header>
+            <div class="header-links">
+                <a href="https://github.com/raphaelsette/chatbot-climaflow-lowcode" target="_blank">Github</a>
+                <a href="https://www.linkedin.com/in/raphaelsette/" target="_blank">Linkedin</a>
+                <a href="https://uptime.settebyte.com/status/climaflow" target="_blank">Status</a>
+                <a href="https://report.settebyte.com" target="_blank">Reportar Bug</a>
+            </div>
+        </header>
+        <main>
+            <script type="module">
+                import Typebot from 'https://cdn.jsdelivr.net/npm/@typebot.io/js@0/dist/web.js';
+
+                Typebot.initStandard({
+                    typebot: "climaflow",
+                    apiHost: "https://bot.settebyte.com",
+                });
+            </script>
+            <typebot-standard style="width: 100%; height: 85vh; "></typebot-standard>
+        </main>
+    </body>
+</html>

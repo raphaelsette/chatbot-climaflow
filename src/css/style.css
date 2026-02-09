@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box; /* Garante que padding e bordas não aumentem o tamanho dos elementos */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Evita qualquer transbordamento lateral acidental */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: "Open Sans", sans-serif;
+    background-color: #f8f8f8;
+}
+
+header {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #eee;
+}
+
+.header-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    line-height: 1;
+    display: inline-block;
+}
+
+.header-links a:hover {
+    text-decoration:underline;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 10px 10px 10px;
+}
+
+.logo-emoji {
+    font-size: 70px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
