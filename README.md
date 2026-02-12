@@ -44,10 +44,14 @@ O **ClimaFlow** é uma solução de assistência meteorológica que une interfac
 
 ## 📸 Demonstração
 
-| Interface de Chat | Workflow no n8n |
+| Interface de Chat | Métricas |
 | :---: | :---: |
-| <img src="./src/img/chat.png" width="400px"> | <img src="./src/img/n8n-workflow.png" width="400px"> |
+| <img src="./src/img/chat.png" width="400px"> | <img src="./src/img/metricas.png" width="400px"> |
 
-| Portainer | Métricas |
+| Workflow Typebot | Workflow n8n |
 | :---: | :---: |
-| <img src="./src/img/portainer.png" width="400px"> | <img src="./src/img/metricas.png" width="400px"> |
+| <img src="./src/img/typebot-workflow.png" width="400px"> | <img src="./src/img/n8n-workflow.png" width="400px"> |
+
+| Portainer | Status |
+| :---: | :---: |
+| <img src="./src/img/portainer.png" width="400px"> | <img src="./src/img/status.png" width="400px"> |
