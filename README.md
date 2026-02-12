@@ -5,7 +5,7 @@
 ![Infra](https://img.shields.io/badge/infra-Docker-blue?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/cloud-Oracle-red?style=for-the-badge)
 
-O **ClimaFlow** é uma solução de assistência meteorológica que une interfaces conversacionais intuitivas com uma arquitetura de back-end. Evoluindo de um fluxo simples para um ecossistema baseado em **Inteligência Artificial Generativa** e automação via **n8n**, o projeto demonstra a integração entre desenvolvimento low-code, IA e operações de infraestrutura moderna.
+O **ClimaFlow** é uma solução de assistência meteorológica que une interfaces conversacionais intuitivas com uma arquitetura de back-end. Evoluindo de um fluxo simples para um ecossistema baseado em **Inteligência Artificial Generativa** e automação via **n8n**, o projeto demonstra a integração entre desenvolvimento, IA e operações de infraestrutura moderna.
 
 👉 **Demonstração:** [climaflow.settebyte.com](https://climaflow.settebyte.com/)
 
