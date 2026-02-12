@@ -44,7 +44,7 @@ O **ClimaFlow** é uma solução de assistência meteorológica que une interfac
 
 ## 📸 Demonstração
 
-| Interface de Webchat | Métricas |
+| Interface de Webchat | Métricas de Uso |
 | :---: | :---: |
 | <img src="./src/img/chat.png" width="400px"> | <img src="./src/img/metricas.png" width="400px"> |
 
@@ -52,6 +52,6 @@ O **ClimaFlow** é uma solução de assistência meteorológica que une interfac
 | :---: | :---: |
 | <img src="./src/img/typebot-workflow.png" width="400px"> | <img src="./src/img/n8n-workflow.png" width="400px"> |
 
-| Portainer | Status |
+| Portainer | Status Page |
 | :---: | :---: |
 | <img src="./src/img/portainer.png" width="400px"> | <img src="./src/img/status.png" width="400px"> |
